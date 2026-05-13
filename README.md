@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=120&text=Sales%20Funnel%20%26%20Lead%20Conversion%20Analysis&fontSize=28&fontColor=ffffff)
+<div align="center">
+<h2>📊 Sales Funnel & Lead Conversion Analysis</h2>
+<p><i>CRM Data · Funnel Analytics · Revenue Intelligence</i></p>
+</div>
 
 [![Excel](https://img.shields.io/badge/Excel-Analysis-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]()
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Dashboard-34A853?style=flat-square&logo=google-sheets&logoColor=white)]()
