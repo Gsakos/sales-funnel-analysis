@@ -1,3 +1,4 @@
+<div align="center">
 # 📊 Sales Funnel & Lead Conversion Analysis
 
 <div align="center">
